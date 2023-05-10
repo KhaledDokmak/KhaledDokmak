@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=khaleddokmak&">
-	<img alt="khaleddokmak's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=khaleddokmak&" /></a>
+	<img alt="khaleddokmak's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=khaleddokmak&" width="40%"/></a>
 	<a href="https://github-readme-stats.vercel.app/api?username=khaleddokmak&show_icons=true&locale=en">
-	<img src="https://github-readme-stats.vercel.app/api?username=khaleddokmak&show_icons=true&locale=en" alt="khaleddokmak" /></a>
+	<img src="https://github-readme-stats.vercel.app/api?username=khaleddokmak&show_icons=true&locale=en" alt="khaleddokmak" width="40%"/></a>
 	<br>
-	<a href="https://github-readme-stats.vercel.app/api/top-langs?username=khaleddokmak&show_icons=true&locale=en&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleddokmak&show_icons=true&locale=en&layout=compact" alt="khaleddokmak" width="500"/> 
+	<a href="https://github-readme-stats.vercel.app/api/top-langs?username=khaleddokmak&show_icons=true&locale=en&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleddokmak&show_icons=true&locale=en&layout=compact" alt="khaleddokmak" width="400"/> 
 </p>
 <!--
 <br> 
