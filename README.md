@@ -1,28 +1,11 @@
 
-<!--
-**KhaledDokmak/KhaledDokmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Khaled Dokmak</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaleddokmak&label=Profile%20views&color=0e75b6&style=flat" alt="khaleddokmak" /> </p>
 
 
-
-
-- :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Arab Academy for Science and Technology.
+- :school: I am a `post graduate Computer Science` from Faculty of Computers & Information at Arab Academy for Science and Technology `[AAST]`.
 - 🔭 I’m currently working on [Virtual Clinic Web Site]()
 - 🌱 I’m currently learning **Backend Node-js**
 - 📫 How to reach me **khaleddokmak2020@gmail.com**
