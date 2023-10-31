@@ -5,11 +5,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaleddokmak&label=Profile%20views&color=0e75b6&style=flat" alt="khaleddokmak" /> </p>
 
 
-- :school: I am a `post graduate Computer Science` from Faculty of Computers & Information at Arab Academy for Science and Technology `[AAST]`.
+- :school: I am a `post-graduate of Computer Science` from the Faculty of Computers & Information at Arab Academy for Science and Technology `[AAST]`.
 - 🔭 I’m currently working on [Virtual Clinic Web Site]()
 - 🌱 I’m currently learning **Backend Node-js**
 - 📫 How to reach me **khaleddokmak2020@gmail.com**
-- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/).
+- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
